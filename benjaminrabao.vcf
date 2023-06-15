@@ -11,11 +11,11 @@ TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:benj.rabano@coffai.ph
 URL;TYPE=Digital Business Card:
-URL:coffai.ph
-URL;TYPE=Website:coffai.ph
-URL;TYPE=Facebook:https://facebook.com/https://www.facebook.com/coffai.ph
-URL;TYPE=Instagram:https://instagram.com/https://www.instagram.com/coffai.ph/?hl=en
+URL:https://coffai.ph
+URL;TYPE=Website:https://coffai.ph
+URL;TYPE=Facebook:https://facebook.com/coffai.ph
+URL;TYPE=Instagram:https://instagram.com/coffai.ph
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:Beans to cup experience
-UID:EnBizCard-100303826
+UID:EnBizCard-100668529
 END:VCARD
